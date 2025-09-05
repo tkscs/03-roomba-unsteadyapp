@@ -15,7 +15,7 @@ n_alcoves = 3
 # THIS PARAMETER CAN CHANGE!!!
 # Make sure your code works for any positive integer value of cirlce_room_radius
 # (You are allowed to use this parameter in your code)
-circle_room_radius = 2
+circle_room_radius = 10
 
 # Draw the Level 5 version of the room
 window = room.draw_room(level = 8,
