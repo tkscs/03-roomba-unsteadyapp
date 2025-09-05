@@ -62,7 +62,7 @@ def draw_circles(radius, room_image_file, n_alcoves = 0):
     room_height = n_rows*pixel_height
 
     img = Image.new("RGB", (room_width+1, room_height+1), color="white")
-    img1 = ImageDraw.Draw(img)  
+    img1 = ImageDraw.Draw(img)
     
     # Draw center circle as atrium
     draw_circle(
