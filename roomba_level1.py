@@ -27,5 +27,4 @@ forward(160)
  
 # End your code here
 ###
- 
 window.exitonclick()
